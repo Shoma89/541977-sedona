@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Shamil Agaev](https://up.htmlacademy.ru/htmlcss/19/user/541977).
-* Наставник: `Неизвестно`.
+* Наставник:[Василика Климова] (https://htmlacademy.ru/profile/id415397).
 
 ---
 
